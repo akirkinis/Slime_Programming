@@ -1,0 +1,48 @@
+Certainly! Here's a basic draft for a privacy policy for your application:
+
+---
+
+**Privacy Policy for MultiTimer**
+
+Last updated: 02 March 2024
+
+Thank you for using MultiTimer! This Privacy Policy outlines how we handle user information for our application.
+
+**1. Data Collection:**
+   - MultiTimer does not collect any personal information or data from its users. We respect your privacy and believe in keeping your information secure.
+
+**2. Offline Functionality:**
+   - MultiTimer operates entirely offline and does not require an internet connection to function. Your data stays on your device.
+
+**3. No Ads:**
+   - Our application does not display any advertisements. Enjoy an ad-free experience while using MultiTimer.
+
+**4. Permissions:**
+   - MultiTimer may require certain device permissions for basic functionality. These permissions are solely for enhancing your experience within the app and are not used to collect or transmit any user data.
+
+**5. Data Security:**
+   - Since MultiTimer does not collect any data, there is no user information stored or transmitted. Your privacy and the security of your information are of utmost importance to us.
+
+**6. Updates:**
+   - This privacy policy may be updated as needed. Users will be notified of any changes through app updates or other means.
+
+**7. Contact Information:**
+   - If you have any questions or concerns about our privacy practices, please contact us at slime.programming@gmail.com .
+
+**8. No Third-Party Services:**
+   - MultiTimer does not use any third-party services. All features and functionalities are contained within the app.
+
+**9. Compliance:**
+   - We strive to comply with all relevant privacy laws and regulations. If you believe there is a problem with how we handle your data, please contact us so we can address the issue promptly.
+
+By using MultiTimer, you agree to the terms outlined in this Privacy Policy. We appreciate your trust in us and are committed to ensuring the security and privacy of your information.
+
+Thank you for choosing MultiTimer!
+
+---
+
+Feel free to customize this draft to better fit the specific details of your app and your preferences. If you have a website or a designated page for the privacy policy, be sure to include the link in the Google Play Console as mentioned earlier.
+
+
+Disclaimer:
+While we strive to ensure the accuracy and truthfulness of the information provided in this privacy policy, we acknowledge that unintentional discrepancies may occur. If any aspect of this policy is found to be untrue or inaccurate, it is not intentional, and we are committed to correcting any oversights promptly.
